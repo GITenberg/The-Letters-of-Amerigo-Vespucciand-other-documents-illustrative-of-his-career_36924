@@ -1,0 +1,70 @@
+_repo: The-Letters-of-Amerigo-Vespucciand-other-documents-illustrative-of-his-career_36924
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Markham, Clements R. (Clements Robert), Sir
+    aliases:
+    - Markham, Sir Clements R. (Clements Robert)
+    - Markham, Clements Robert, Sir
+    birthdate: 1830
+    deathdate: 1916
+    gutenberg_agent_id: '2962'
+    url: http://www.gutenberg.org/2009/agents/2962
+    wikipedia: http://en.wikipedia.org/wiki/Clements_Markham
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Casas, Bartolomé de las
+    aliases:
+    - Las Casas, Bartolomé de
+    - Casas, Bartolome de las
+    - De las Casas, Bartolomé
+    birthdate: 1484
+    deathdate: 1566
+    gutenberg_agent_id: '9232'
+    url: http://www.gutenberg.org/2009/agents/9232
+    wikipedia: http://en.wikipedia.org/wiki/Bartolom%C3%A9_de_Las_Casas
+  - agent_name: Columbus, Christopher
+    aliases:
+    - Colón, Cristóbal
+    - Colon, Cristobal
+    - Colombo, Cristoforo
+    birthdate: &id001 1451
+    deathdate: 1506
+    gutenberg_agent_id: '5377'
+    url: http://www.gutenberg.org/2009/agents/5377
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Columbus
+  - agent_name: Vespucci, Amerigo
+    alias: Amerigo Vespucci
+    birthdate: *id001
+    deathdate: 1512
+    gutenberg_agent_id: '38535'
+    url: http://www.gutenberg.org/2009/agents/38535
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36924'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pinzón, Vicente Yáñez, 1461 or 1462-approximately 1524'
+- !lcsh 'America -- Discovery and exploration -- Early works to 1800'
+- !lcsh 'Díaz de Solís, Juan, 1471?-1516?'
+- !lcsh 'Ojeda, Alonso de, approximately 1466-approximately 1515'
+- !lcc 'G'
+tableOfContents: Letter of Amerigo Vespucci to a "magnificent lord" -- Letter of Amerigo
+  Vespucci to Lorenzo Pietro F. di Medici -- Evidence of Alonso de Hojeda respecting
+  his voyage of 1499 -- Account of the voyage of Hojeda, 1499-1500, by Navarrete --
+  Letter of the Admiral Christopher Columbus to his son -- Letter of Vianelo to the
+  Seigneury of Venice -- Letter of naturalization in favor of Vespucci -- Appointment
+  of Amerigo Vespucci as chief pilot -- Chapters from Las Casas, which discuss the
+  statements of Vespucci -- Evidence respecting the voyage of Pinzon and Solis --
+  Las Casas on the voyage of Pinzon and Solis.
+title: The Letters of Amerigo Vespucci, and Other Documents Illustrative of His Career
+url: http://www.gutenberg.org/ebooks/36924
