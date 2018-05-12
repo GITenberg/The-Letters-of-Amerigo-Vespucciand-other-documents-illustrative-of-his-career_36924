@@ -31,18 +31,20 @@ creator:
     - Colón, Cristóbal
     - Colon, Cristobal
     - Colombo, Cristoforo
-    birthdate: &id001 1451
+    birthdate: 1451
     deathdate: 1506
     gutenberg_agent_id: '5377'
     url: http://www.gutenberg.org/2009/agents/5377
     wikipedia: http://en.wikipedia.org/wiki/Christopher_Columbus
   - agent_name: Vespucci, Amerigo
     alias: Amerigo Vespucci
-    birthdate: *id001
+    birthdate: 1451
     deathdate: 1512
     gutenberg_agent_id: '38535'
     url: http://www.gutenberg.org/2009/agents/38535
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36924#The-Letters-of-Amerigo-Vespucciand-other-documents-illustrative-of-his-career
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-07-31'
 gutenberg_type: Text
